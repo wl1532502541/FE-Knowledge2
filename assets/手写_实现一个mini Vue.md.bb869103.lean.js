@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,e as l}from"./app.6e58fbdc.js";const i=JSON.parse('{"title":"实现一个mini VUE","description":"","frontmatter":{},"headers":[],"relativePath":"手写/实现一个mini Vue.md","lastUpdated":1633540262000}'),p={name:"手写/实现一个mini Vue.md"},o=l("",2),e=[o];function t(c,r,y,F,D,A){return a(),n("div",null,e)}const f=s(p,[["render",t]]);export{i as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,e as l}from"./app.6e58fbdc.js";const i=JSON.parse('{"title":"封装ajax","description":"","frontmatter":{},"headers":[],"relativePath":"手写/封装ajax.md","lastUpdated":1631006240000}'),p={name:"手写/封装ajax.md"},o=l("",2),t=[o];function e(c,r,F,y,D,A){return a(),n("div",null,t)}const u=s(p,[["render",e]]);export{i as __pageData,u as default};

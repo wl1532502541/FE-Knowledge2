@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,e as l}from"./app.6e58fbdc.js";const A=JSON.parse('{"title":"媒体查询——动画减弱","description":"","frontmatter":{},"headers":[],"relativePath":"CSS基础/媒体查询——动画减弱.md","lastUpdated":1708619253000}'),p={name:"CSS基础/媒体查询——动画减弱.md"},o=l("",14),e=[o];function t(c,r,D,F,y,C){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};
