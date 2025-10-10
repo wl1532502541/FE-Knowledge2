@@ -1,0 +1,1 @@
+import{_ as e,a as t,o as a}from"./chunks/framework.2-_qtiUw.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"计算机网络相关/QUIC.md","filePath":"计算机网络相关/QUIC.md","lastUpdated":1708619253000}'),r={name:"计算机网络相关/QUIC.md"};function o(s,n,c,d,p,_){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
