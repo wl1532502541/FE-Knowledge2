@@ -457,5 +457,5 @@ docker build -t my-node-app .
 docker run -p 3000:3000 my-node-app
 ```
 
-- 这将启动一个容器，其中运行了您的 Node.js 应用程序，并可通过浏览器访问 http://localhost:3000。​
+- 这将启动一个容器，其中运行了您的 Node.js 应用程序，并可通过浏览器访问 `http://localhost:3000`。​
 ​
